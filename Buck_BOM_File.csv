@@ -1,0 +1,11 @@
+Reference,Value,Footprint,Qty,MPN,Price,Part Page
+C1,100uF,Capacitor_THT:C_Radial_D4.0mm_H7.0mm_P1.50mm,1,35ZLH100MEFC6.3X11,? 25.98,https://www.digikey.in/en/products/detail/rubycon/35ZLH100MEFC6-3X11/3134256
+C2,10uF,Capacitor_THT:C_Radial_D4.0mm_H5.0mm_P1.50mm,1,ECA-1HM100,? 19.28,https://www.digikey.in/en/products/detail/panasonic-electronic-components/ECA-1HM100/245037
+D1,1N5819,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,1,1N5819,? 31.85,https://www.digikey.in/en/products/detail/stmicroelectronics/1N5819/1037326
+L1,36uH,Inductor_THT:L_Radial_D12.0mm_P5.00mm_Fastron_11P,1,"	
+0070256A7","? 1,020.93",https://www.digikey.in/en/products/detail/magnetics-a-division-of-spang-co/0070256A7/22033077
+Q1,IRFZ44N,Package_TO_SOT_THT:TO-3P-3_Vertical,1,"	
+IRFZ44N",? 102.26,https://www.digikey.in/en/products/detail/umw/IRFZ44N/24889964
+R1,5R,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,RCMA052R500DES03,? 15.75,https://www.digikey.in/en/products/detail/vishay-sfernice/RCMA052R500DES03/10746581?s=N4IgjCBcoExaBjKAzAhgGwM4FMA0IB7KAbXADYBWAFgGYQBdfABwBcoQBlFgJwEsA7AOYgAvvjrQQSSGix5CJEAE4A7GQbM2kTjwHCxIGAAYAHBXhSUGHPiKRSMAHQUABAHkAFgFtMGkK3YAVX5eFjdkAFlsVEwAV25sUXwAWjhJaR5Y%2BTtSc3oRAzTSBMxeTBYCbgYRIA
+V1,24V,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",1,BATTERY NIMH 1.35V 900MAH AAA,? 180.21,https://www.digikey.in/en/products/detail/duracell-industrial-operations-inc/AAA-NIMH-DURACELL/16164082
+V2,VPULSE,Package_DIP:DIP-8_W7.62mm,1,IC CLOCK GENERATOR 8UMAX,? 332.77,https://www.digikey.in/en/products/detail/analog-devices-inc-maxim-integrated/DS1090U-8/1196702
